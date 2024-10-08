@@ -17,8 +17,9 @@ This repo is intended to support and extend the efforts that have been made in t
 
 ### State-of-the-art
 
-A: Contribution of Iulian Gherghevici
-
+A: [Contribution](saa-iulian.md) of Iulian Gherghevici
+B: [Contribution](saa-cristian) of Cristian Pop-Razbuc
+C: [Contribution](saa-tatiana) of Tatiana Gulica
 
 ***BiofeeDPET*** app supports and extends:
 
@@ -33,6 +34,7 @@ A: Contribution of Iulian Gherghevici
 
 2004 - _Evidence-based practice in biofeedback and neurofeedback_ by Yucha C, Gilbert C. The Association for Applied Psychophysiology and Biofeedback. Wheat Ridge, CO.
 
+2017 - Sound therapy by Regina Murphy. [https://www.soundtherapysolutions.com/](url)
 
 2018 - _Combined accelerometer and genetic analysis to differentiate essential tremor from Parkinson’s disease_ by Ali Torkamani et al.
        doi: [https://doi.org/10.7717/peerj.5308](url)  [https://peerj.com/articles/5308/](url)
@@ -49,7 +51,7 @@ A: Contribution of Iulian Gherghevici
 2023 - _Deep learning and wearable sensors for the diagnosis and monitoring of Parkinson’s disease: A systematic review_ by Luis Sigcha.
        doi: [https://doi.org/10.1016/j.eswa.2023.120541](url)  [https://www.sciencedirect.com/science/article/pii/S0957417423010436?via%3Dihub](url)
 
-2017 - Sound therapy by Regina Murphy. [https://www.soundtherapysolutions.com/](url)
+
 
 ### Architecture
 
