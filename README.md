@@ -17,9 +17,12 @@ This repo is intended to support and extend the efforts that have been made in t
 
 ### State-of-the-art
 
-A: [Contribution](saa-iulian.md) of Iulian Gherghevici
-B: [Contribution](saa-cristian) of Cristian Pop-Razbuc
-C: [Contribution](saa-tatiana) of Tatiana Gulica
+A: [Contribution](/saa-iulian.md) of Iulian Gherghevici
+
+B: [Contribution](/saa-cristian) of Cristian Pop-Razbuc
+
+C: [Contribution](/saa-tatiana) of Tatiana Gulica
+
 
 ***BiofeeDPET*** app supports and extends:
 
@@ -123,8 +126,11 @@ Link: [https://iul-ge.atlassian.net/jira/software/projects/BIOF/boards/1](url)
 
 ### Coordinator
 Professor, PhD. _Adrian Iftene_
+
 Faculty of Computer Science
+
 _Alexandru Ioan Cuza_ University
+
 Iasi, Romania
 <adiftene@gmail.com>
 
