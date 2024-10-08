@@ -45,6 +45,8 @@ This repo is intended to support and extend the efforts that have been made in t
 
 ## Table of contents
 
+### State-of-the-art
+
 ### Architecture
 
 ### Constructs
@@ -105,9 +107,20 @@ Testing is also done automatically by GitHub Actions, upon every push.
 ### Authors:
 Iulian Gherghevici: Gyulius <giulianbqc@gmail.com>
 
-Cristian Pop-Razbuc: Cristi4066
+Cristian Pop-Razbuc: Cristi4066 <poprazbuccristian@gmail.com>
 
-Tatiana Gulica: Tatiana127
+Tatiana Gulica: Tatiana127 <gulicatatiana97@gmail.com>
 
-Team management will be handled through JIRA project
+Team management will be handled through a JIRA project:
+
+Link: [https://iul-ge.atlassian.net/jira/software/projects/BIOF/boards/1](url)
+
+### Coordinator
+Professor, PhD. _Adrian Iftene_
+Faculty of Computer Science
+_Alexandru Ioan Cuza_ University
+Iasi, Romania
+<adiftene@gmail.com>
+
+
 
