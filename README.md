@@ -103,9 +103,11 @@ To run static analysis:
 Testing is also done automatically by GitHub Actions, upon every push.
 
 ### Authors:
-Gyulius <giulianbqc@gmail.com>
+Iulian Gherghevici: Gyulius <giulianbqc@gmail.com>
 
-Cristi4066
+Cristian Pop-Razbuc: Cristi4066
 
-Tatiana127
+Tatiana Gulica: Tatiana127
+
+Team management will be handled through JIRA project
 
