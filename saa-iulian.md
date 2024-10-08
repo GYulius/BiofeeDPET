@@ -37,7 +37,16 @@ Since 1969 the ability of each individual to control one's muscle tension was ob
 
 The subjects involved in the tests were invited to obtain the lowest sound pitch possible, properly financially motivated to get the best results.
 
-In 1981, various researches were gathered to stress out the _matter's intelect_ including the importance of theta brain waves in relation to deep conscious muscle relaxation.
+In 1981, various researches were gathered to stress out the _matter's intelect_ including the importance of theta brain waves, as one of the five electric impulses and neural oscilation that can be recorded using an electroencephalogram (EEG), recorded from electrodes attached to the scalp. 
+
+The subjects were learned to bring their brain waves level to theta while being awake, inducing deep conscious muscle relaxation.
+
+Since 2003 biofeedback was pointed out as an important technique that enables an individual to learn how to change physiological activity for the purposes of improving health and performance (Gilbert & Moss, 2003). This term and technique gained momentum in the medical and scientific world as many projects emmerged up to date.
+
+Of outmost importance being the method used to bring the monitorised physichal state to the individual, beside the use of sound pitch, live EEG results, the newest technology level brings wearables to attention, equipped with better and better sensors, that can present specific colors in relation to helpful messages, in addition playing relaxing music or sounds of chosen frequencies. 
+
+
+
 
 
 
