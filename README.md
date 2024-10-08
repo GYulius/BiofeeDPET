@@ -11,7 +11,16 @@ This project has started as a lab activity within Advanced Software Engineering 
 
 This repo is intended to support and extend the efforts that have been made in this area of study in order to bring the newest technologies to those who want to help themselves related to a specific condition.
 
-## BiofeeDPET app supports and extends:
+
+
+## Table of contents
+
+### State-of-the-art
+
+A: Contribution of Iulian Gherghevici
+
+
+***BiofeeDPET*** app supports and extends:
 
 1969 - _An instrument for producing deep muscle relaxation by means of analog information feedback_ by Thomas H. Budzynski, Johann M. Stoyva. 
        doi: 10.1901/jaba.1969.2-231  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1311072/](url)
@@ -41,11 +50,6 @@ This repo is intended to support and extend the efforts that have been made in t
        doi: [https://doi.org/10.1016/j.eswa.2023.120541](url)  [https://www.sciencedirect.com/science/article/pii/S0957417423010436?via%3Dihub](url)
 
 2017 - Sound therapy by Regina Murphy. [https://www.soundtherapysolutions.com/](url)
-
-
-## Table of contents
-
-### State-of-the-art
 
 ### Architecture
 
