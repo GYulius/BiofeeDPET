@@ -20,55 +20,55 @@ Compared with its use in the diagnosis of PD, wearable technology in PD monitori
 Table 1: An overview of wearable devices conditionally approved by the National Institute for Health and Care Excellence for monitoring Parkinson’s disease
 
 
-Devices:
+# Devices:
 
-##PKG
+## PKG
 
-###Description of device:
+### Description of device:
 
 Wrist-worn device, which is used for 6–10 days and provides objective motor measurements of bradykinesia, dyskinesia and tremor. Data are also collected about immobility, medication adherence and tendency to impulsiveness.23Expand Reference
 
 It is a regulated class IIa medical device and has received clearance to be used in Australia, Europe and the USA
 
-###Relevant research to date:
+### Relevant research to date:
 
 In many studies, the use of PKG data in addition to clinical assessment by doctors led to changes in PD management.
  One study also reviewed PKG acceptability and demonstrated that 82% of participants found the PKG easy to use and 74% found PKG to be somewhat or highly valuable in providing data to manage their PD56Expand Reference
 
-##STAT-ON
+## STAT-ON
 
-###Description of device:
+### Description of device:
 
 Waist-worn inertial recorder. It measures dyskinesia, ‘on’ and ‘off’ periods, gait (including freezing of gait and bradykinesia), falls, energy expenditure and posture. Similar to PKG, the STAT-ON should be worn for at least 5 days.
 
 It is a CE safety-marked class IIa medical device, certified for the European market
 
-###Relevant research to date:
+### Relevant research to date:
 
 There is less published evidence regarding the STAT-ON device, with the majority of the evidence focused on diagnostic accuracy.
  There is limited evidence about patient or clinician opinions, which are generally favourable but a lack of evidence regarding the correlation between STAT-ON use and clinical outcomes
 
-##Kinesia360 and KinesiaU
+## Kinesia360 and KinesiaU
 
-###Description of device:
+### Description of device:
 
 Kinesia360 is a wrist- and ankle-worn monitoring system linked to a smartphone application, whereas the KinesiaU uses off-the-shelf smartwatch technology paired with the Kinesia application to monitor Parkinson’s symptoms. KinesiaU is marketed more at consumers to monitor and manage their own condition, whereas Kinesia360 is aimed at clinicians.
 
 Kinesia360 is a class I CE safety-marked and FDA-approved medical device; the KinesiaU motor assessment system is currently cleared for sale in the USA, the UK, the EU and Canada
 
-###Relevant research to date:
+### Relevant research to date:
 
 Diagnostic accuracy is rated as moderate to good with Kinesia360.63Expand Reference There were three small studies examining clinical outcomes using the Kinesia systems, and although there were some indications that there may be motor and quality of life improvements, the study cohorts were too small to be definitive
 
-##PDMonitor
+## PDMonitor
 
-###Description of device:
+### Description of device:
 
 A wearable system consisting of five devices worn on the limbs and the waist. Data on bradykinesia, dyskinesia, tremor, gait (including freezing), postural instability, ‘on’ and ‘off’ periods and activity levels are collected.
 
 It is a CE safety-marked class IIa medical device, certified for the European market
 
-###Relevant research to date:
+### Relevant research to date:
 
 There is limited published evidence regarding the use of the PDMonitor system, and evidence regarding clinical outcomes is limited to a couple of case reports
 
