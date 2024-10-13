@@ -1,0 +1,27 @@
+Outcome following the negociation of the tasks:
+
+
+Iulian Gherghevici
+- SCRUM master
+- Product owner
+- Software development in Java:
+	- the relation with the MySQL database using JDBC and/or Hibernate,
+	- data processing
+	- SQL queries to retrieve the processed data
+- DevSecOps tasks using Docker, Jenkins, Kubernetes on GCP for a secure app
+
+
+
+Tatiana Gulica
+- software development of the mobile app using Android Studio targeting smartwatches and mobile phones
+- creating the UI with account registration and login
+
+
+
+Cristian Pop-Razbuc
+- software development of the app ensuring:
+	- the connectivity between the smartwatch and the mobile phone
+	- data collection from the sensors
+	- connectivity of the app to a server and sending data
+
+
