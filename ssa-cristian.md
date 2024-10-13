@@ -20,7 +20,7 @@ Compared with its use in the diagnosis of PD, wearable technology in PD monitori
 Table 1: An overview of wearable devices conditionally approved by the National Institute for Health and Care Excellence for monitoring Parkinson’s disease
 
 
-#Devices:
+Devices:
 
 ##PKG
 
