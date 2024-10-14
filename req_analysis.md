@@ -34,13 +34,18 @@
         - check if a LTE network and mobile plan are set on the smartwatch;
         - listen to and execute voice commands (of most importance if the smartwatch benefits from LTE technology);
         - receive and play audio files;
-        - pass security checks on encrypted data flows: on-the-fly, in cache and stored in the database
+        - pass security checks on encrypted data in-flight and at rest, in cache and stored in the database or backups
         
 **The constraints by design** are the following:
 
-	-
-	The system interface setup for the interaction of the components of the app with the system and with each other:
-	The UI/UX should be designed as targeting not only elderly people.
+	The system interface setup for the interaction of the components of the app with the system and with each other must respect component-driven development principles.
+	The UI/UX should be designed as targeting not only the elderly people.
+ 	The various brands and manufacturers of smartwatches limitations on the market were observed: 
+  	- Huawei as first option both for the lasting battery and lower cost will be included in a later stage of development because of the limited access to it's sensors data if the developer is registered as an individual (which is the case) and not enterprise;
+   	- Garmin has a smaller segment on the market and one must develop using Monkey C and Connect IQ SDK after this manufacturer dropped Java and other options;
+    	- Xiaomi has less history comparing to other brands, so less documentation, and even getting to developer mode was difficult not much a while ago;
+     	- low-budget brands as Amazfit invite to use also budget tools as Zepp Studio for their Zepp OS or the same, and the quality of the sensors might not be the best;
+      	- Samsung with it's history of running Wear OS on various models seemed the best option to start the development using Android Studio even one has to charge the watch 3 to 7 times more often than Huawei models.
 
 
 **Modeling**
