@@ -74,12 +74,10 @@ All four main types of mobile app trackable metrics will be used for assessment:
 The metrics included in the above categories will be managed through Prometheus and Google Cloud Managed Service, and will be presented on a Grafana dashboard.
 
 ### Known issues
+The functionality of the app depends on sensors reading accuracy and correct wearing the wrist watch.
 
 ### Additional resources
-
-
-
-
+Other projects use low currents levels to control and adjust muscle contractions, up to 58 contact points so far in special suits.
 
 ### Quickstart:
 
