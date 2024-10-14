@@ -19,9 +19,9 @@ This repo is intended to support and extend the efforts that have been made in t
 
 A: [Contribution](/saa-iulian.md) of Iulian Gherghevici
 
-B: [Contribution](/ssa-cristian) of Cristian Pop-Razbuc
+B: [Contribution](/ssa-cristian.md) of Cristian Pop-Razbuc
 
-C: [Contribution](/ssa-tatiana) of Tatiana Gulica
+C: [Contribution](/ssa-tatiana.md) of Tatiana Gulica
 
 
 ***BiofeeDPET*** app supports and extends:
@@ -66,6 +66,12 @@ C: [Contribution](/ssa-tatiana) of Tatiana Gulica
 The application containerized with Docker will be deployed on a Kubernetes cluster with Jenkins plugin on Google Cloud Platform.
 
 ### Collection of metrics
+All four main types of mobile app trackable metrics will be used for assessment:
+- User engagement
+- Consumer satisfaction
+- Acquisition
+- Performance
+The metrics included in the above categories will be managed through Prometheus and Google Cloud Managed Service, and will be presented on a Grafana dashboard.
 
 ### Known issues
 
