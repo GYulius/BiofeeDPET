@@ -19,9 +19,9 @@ This repo is intended to support and extend the efforts that have been made in t
 
 A: [Contribution](/saa-iulian.md) of Iulian Gherghevici
 
-B: [Contribution](/saa-cristian) of Cristian Pop-Razbuc
+B: [Contribution](/ssa-cristian) of Cristian Pop-Razbuc
 
-C: [Contribution](/saa-tatiana) of Tatiana Gulica
+C: [Contribution](/ssa-tatiana) of Tatiana Gulica
 
 
 ***BiofeeDPET*** app supports and extends:
@@ -63,6 +63,7 @@ C: [Contribution](/saa-tatiana) of Tatiana Gulica
 ### Project structure
 
 ### Deployment
+The application containerized with Docker will be deployed on a Kubernetes cluster with Jenkins plugin on Google Cloud Platform.
 
 ### Collection of metrics
 
