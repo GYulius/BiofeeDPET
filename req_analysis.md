@@ -117,14 +117,14 @@ Here is the use case diagram illustrating the interactions between the Smartphon
 ---------------------- End of generated context -----------------------
 
 Class diagrams, and other diagrams per team member:
-- [Contribution](/diagrams-iulian.md)
-- [Contribution](/diagrams-tatiana.md)
-- [Contribution](/diagrams-cristian.md)
+- [Contribution Iulian](/diagrams-iulian.md)
+- [Contribution Tatiana](/diagrams-tatiana.md)
+- [Contribution Cristian](/diagrams-cristian.md)
   
  
 **Specification** 
 
-The following software requirement specification (SRS) must be observed: 
+The software requirement specification (SRS) must be observed. 
  
 **Review**
 
