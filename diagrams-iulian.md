@@ -3,6 +3,12 @@
 Iulian Gherghevici
 
 
+The AI Generated use case diagram included
+
+
+![Use case](/images/use_case_diagram_AI_generated.jpg)
+
+
 The class diagram
 
 
