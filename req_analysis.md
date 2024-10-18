@@ -111,7 +111,7 @@ Smartphone: Receives sensor data, stores user data, sends/receives data to/from 
 Server: Receives raw sensor data, processes it, and sends the results back to the smartphone for further interaction with the user.
 I’ll now create a visual representation of this use case diagram.
 
-! [use case AI-Generated diagram] ([/images/use_case_diagram_AI_generated.jpg](url))
+! [use case AI-Generated diagram] (/images/use_case_diagram_AI_generated.jpg)
 
 Here is the use case diagram illustrating the interactions between the Smartphone User, Smartwatch User, Server, and Cloud Platform with the various system functionalities. The diagram highlights the major use cases, including installing the app, storing personal data, reading sensor data, sending data to the smartphone, processing data on the server, updating the UI, handling emergency LTE availability, executing voice commands, playing audio files, and securing data flows. Each actor has corresponding interactions with different use cases relevant to their role.
 
