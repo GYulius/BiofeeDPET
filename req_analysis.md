@@ -117,9 +117,9 @@ Here is the use case diagram illustrating the interactions between the Smartphon
 ---------------------- End of generated context -----------------------
 
 Class diagrams, and other diagrams per team member:
-- (/diagrams-iulian.md)
-- (/diagrams-tatiana.md)
-- (/diagrams-cristian.md)
+- [Contribution](/diagrams-iulian.md)
+- [Contribution](/diagrams-tatiana.md)
+- [Contribution](/diagrams-cristian.md)
   
  
 **Specification** 
