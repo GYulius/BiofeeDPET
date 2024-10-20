@@ -1,6 +1,6 @@
 # **Phone App Class Diagram**
 
-![Class Diagram](/images/Server_Class_Diagram.png)
+![Class Diagram](/images/Phone_App_Diagram.png)
 
 The server contains four classes:
 
@@ -9,7 +9,7 @@ The server contains four classes:
 3. Data
 4. Smartwatch
 
-## Server Class
+## Client Class
 
 This class contains the information about the server, the IP and the Port on which the Phone App connects. It contains the Data which is getting from the smartwatch and it will send to the server. Afterwards waits from the server the feedback
 
@@ -29,7 +29,7 @@ This class contains all of the Smartwatch information: the brand, the model and 
 
 # **Use Case Diagram**
 
-![Use Case Diagram](/images/Sequence_Diagram.png)
+![Use Case Diagram](/images/Use_Case_Diagram.png)
 
 The steps are the User from the Phone App logins to the server. All the security and securing the data are part of the Cloud Platform.
 The Phone App connects to the Smartwatch. The Smartwatch uses the Sensors to read out the values which will be added to the package: the heart rate, the accelerometer and the rotation rate.
