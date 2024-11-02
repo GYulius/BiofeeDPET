@@ -290,6 +290,8 @@ CloudLogging
 logError(error: Error): Void
 logAuditTrail(auditInfo: String): Void
 
+![Classes](/images/class_diagram_iulian2.png)
+
 # 2. Use Case Diagram related to GCP
 The following use cases should be illustrated for the mobile app’s interactions with the GCP-hosted backend:
 
@@ -314,7 +316,7 @@ Token Refresh:
 
 App handles token refresh requests for continued access.
 
-
+![Classes](/images/Use_Case_Diagram_GCP.jpg)
 
 
 
