@@ -316,7 +316,7 @@ Token Refresh:
 
 App handles token refresh requests for continued access.
 
-![Classes](/images/Use_Case_Diagram_GCP.jpg)
+![Use Case GCP](/images/Use_Case_Diagram_iulian.png)
 
 
 
