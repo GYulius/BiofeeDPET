@@ -1,0 +1,118 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="wu020Ojsc_jCmBcS3yZO">
+    <mxGraphModel dx="2074" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-1" value="Smartwatch" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="870" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-1" source="eEllo0Jjy98hxPFlCyGk-4" target="eEllo0Jjy98hxPFlCyGk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-4" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-1">
+          <mxGeometry x="50" y="30" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-1" source="eEllo0Jjy98hxPFlCyGk-11" target="eEllo0Jjy98hxPFlCyGk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-1" source="eEllo0Jjy98hxPFlCyGk-9" target="eEllo0Jjy98hxPFlCyGk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-9" value="Creating the Data Package" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-1">
+          <mxGeometry x="380" y="15" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-11" value="Read the values from the sensors" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopStandard=1;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-1">
+          <mxGeometry x="180" y="15" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-12" value="Sending the Package to the Phone" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-1">
+          <mxGeometry x="720" y="15" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-1" source="eEllo0Jjy98hxPFlCyGk-35" target="eEllo0Jjy98hxPFlCyGk-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-35" value="Receiving the Alert from Phone" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-1">
+          <mxGeometry x="380" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-1" source="eEllo0Jjy98hxPFlCyGk-37" target="eEllo0Jjy98hxPFlCyGk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-37" value="Alert the User" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-1">
+          <mxGeometry x="180" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-6" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-1">
+          <mxGeometry x="60" y="155" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-2" value="Phone" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="870" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-2" source="eEllo0Jjy98hxPFlCyGk-14" target="eEllo0Jjy98hxPFlCyGk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-14" value="Receiving the Package from the Smartwatch" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-2">
+          <mxGeometry x="720" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-17" value="Sending the Package to the Server" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-2">
+          <mxGeometry x="720" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-2" source="eEllo0Jjy98hxPFlCyGk-27" target="eEllo0Jjy98hxPFlCyGk-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-27" value="Receiving the Feedback" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-2">
+          <mxGeometry x="520" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-29" value="Checking the Feedback" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-2">
+          <mxGeometry x="520" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-31" value="Sending an alert to the Smartwatch" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-2">
+          <mxGeometry x="270" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-33" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;startArrow=diamondThin;startFill=0;endSize=6;startSize=10;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-2" source="eEllo0Jjy98hxPFlCyGk-29" target="eEllo0Jjy98hxPFlCyGk-31">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="150" as="sourcePoint" />
+            <mxPoint x="910" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-34" value="If Feedback is bad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-2">
+          <mxGeometry x="410" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-3" value="Server" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="550" width="870" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-3" source="eEllo0Jjy98hxPFlCyGk-19" target="eEllo0Jjy98hxPFlCyGk-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-19" value="Receiving the Package from the Server" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-3">
+          <mxGeometry x="720" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-3" source="eEllo0Jjy98hxPFlCyGk-21" target="eEllo0Jjy98hxPFlCyGk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-21" value="Analizing the Data received" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-3">
+          <mxGeometry x="720" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eEllo0Jjy98hxPFlCyGk-3" source="eEllo0Jjy98hxPFlCyGk-23" target="eEllo0Jjy98hxPFlCyGk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-23" value="Constructing a Feedback" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-3">
+          <mxGeometry x="520" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-25" value="Sending the Feedback to the Phone" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="eEllo0Jjy98hxPFlCyGk-3">
+          <mxGeometry x="520" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eEllo0Jjy98hxPFlCyGk-12" target="eEllo0Jjy98hxPFlCyGk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eEllo0Jjy98hxPFlCyGk-17" target="eEllo0Jjy98hxPFlCyGk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eEllo0Jjy98hxPFlCyGk-25" target="eEllo0Jjy98hxPFlCyGk-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEllo0Jjy98hxPFlCyGk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eEllo0Jjy98hxPFlCyGk-31" target="eEllo0Jjy98hxPFlCyGk-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
