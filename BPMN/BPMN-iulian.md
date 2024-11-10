@@ -24,9 +24,10 @@ Store Data (DataController and CloudFirestore): Saves or updates the user data i
 
 Log Audit Event (AuditLogger): Logs actions as events (e.g., user created, updated, or deleted).
 
-End Event: User management action is completed..
+End Event: User management action is completed.
 
-3. Authentication Swimlane
+
+2. Authentication Swimlane
 Start Event: User initiates login or token refresh.
 Tasks in Sequence:
 
@@ -39,7 +40,7 @@ Log Event (AuditLogger): Records authentication activity (successful login, logo
 End Event: Authentication completes with either a successful login or logout.
 
 
-5. Data Handling Swimlanes involves data encryption and data controlling
+3. Data Handling Swimlanes involves data encryption and data controlling
 Start Event: Request to retrieve, save, or update data.
 Tasks in Sequence:
 
@@ -53,7 +54,8 @@ Log Data Event (AuditLogger): Logs data actions (e.g., data saved or retrieved).
 
 End Event: Data operation is complete.
 
-7. Error Handling and Logging Swimlanes
+
+4. Error Handling and Logging Swimlanes
 Start Event: An event is recorded, identified or not as an error, in any of the three main process categories above.
 Tasks in Sequence:
 
